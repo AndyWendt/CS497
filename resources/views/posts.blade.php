@@ -16,6 +16,9 @@
             <li>{{ $tag->name }}</li>
         @endforeach
     </ul>
+
+    <h3>Content</h3>
+    <p>{{ $post->content }}</p>
 </div>
 @endforeach
 
