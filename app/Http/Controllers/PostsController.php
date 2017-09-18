@@ -11,4 +11,9 @@ class PostsController extends Controller
     {
         return Post::with('tags')->get();
     }
+
+    public function postsWithTags()
+    {
+        return view('posts')->with(['posts' => Post::with('tags')->get()]);
+    }
 }

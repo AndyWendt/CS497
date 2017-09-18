@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('/posts', 'PostsController@index');
+Route::get('/postsWithTags', 'PostsController@postsWithTags');
