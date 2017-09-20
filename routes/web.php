@@ -17,4 +17,3 @@ Route::get('/', function () {
 
 Route::get('/posts', 'PostsController@index');
 Route::get('/postsWithTags', 'PostsController@postsWithTags');
-Route::get('/posts/tag/{tag}', 'PostsController@postsWithTags');
