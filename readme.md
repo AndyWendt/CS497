@@ -1,5 +1,7 @@
 # CS 497
 
+The code that we went over during the presentation is on the `example` branch
+
 ## Resources
 
 * [Larachat Slack Team](https://larachat.co/)
