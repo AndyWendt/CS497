@@ -1,6 +1,6 @@
-# CS 497
+# BSU CS 497 Lecture Code
 
-The code that we went over during the presentation is on the `example` branch
+The code that we went over during the presentation is on the `example` branch.
 
 ## Resources
 
